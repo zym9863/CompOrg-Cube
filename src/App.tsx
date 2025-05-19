@@ -1,4 +1,4 @@
-import { MantineProvider, Container, Paper, Tabs, Title, Text, createTheme, rem, Group, Image } from '@mantine/core';
+import { MantineProvider, Container, Paper, Tabs, Title, Text, createTheme, rem, Group } from '@mantine/core';
 import { NumberConverter } from './components/NumberConverter';
 import { FloatVisualizer } from './components/FloatVisualizer';
 import { OperationSimulator } from './components/OperationSimulator';
